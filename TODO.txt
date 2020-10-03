@@ -1,0 +1,24 @@
+make rest api
+security
+configurable service (settings)
+admin service
+
+
+events:
+add user (user) +
+delete user (user) +
+update user info (user) +
+get user teams
+add team
+add user to team
+remove user from team
+add transaction
+edit transaction
+delete transaction
+
+
+
+ideas:
+grey transactions (cancelled transactions by sender or receiver)
+friends list
+user settings in db
